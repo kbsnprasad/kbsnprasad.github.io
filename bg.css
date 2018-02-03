@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.bg {
+
+	margin:0 15px;
+	padding:5px 15px;
+	border:solid #FFFFFF 0px;
+	border-radius:6px;
+	color:#FFFFFF;
+	text-decoration:none;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}

@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.button {
+	margin:0 15px;
+	padding:5px 15px;
+	border:solid #FFFFFF 0px;
+	border-radius:6px;
+	color:#FFFFFF;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#3D61BD;
+}
+
+.button:hover {
+	text-decoration:none;
+	color: #FFFFFF;
+	background-color:#13175D;
+	font-family: Georgia, "Times New Roman", Times, serif;
+
+}
